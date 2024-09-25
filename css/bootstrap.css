@@ -6,4 +6,5 @@ body{
 /*common end*/
 .box {
     background-color: darkred;
+	height: 100vh;
 }
