@@ -4,7 +4,8 @@ body{
 	padding: 0;
 }
 /*common end*/
-.box {
-        background-color: olivedrab;
-    }
 
+.box{
+	height: 100vh;
+	background-color: darkred;
+}
